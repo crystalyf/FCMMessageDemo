@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067874047430",
+    "firebase_url": "https://fcmtestdemo-fc1d9.firebaseio.com",
+    "project_id": "fcmtestdemo-fc1d9",
+    "storage_bucket": "fcmtestdemo-fc1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067874047430:android:8f2a75053e3643d2160ec7",
+        "android_client_info": {
+          "package_name": "tokyo.urbanlife.fcmtestdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067874047430-03kqvbdsppjvb74bkq085v56kcqrt15f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7JY_WJ8a2s0AbBZB8UdnSQK7ptuIRBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067874047430-03kqvbdsppjvb74bkq085v56kcqrt15f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
